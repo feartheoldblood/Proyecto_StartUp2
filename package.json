@@ -1,0 +1,19 @@
+{
+  "name": "proyect",
+  "version": "1.0.0",
+  "description": "omg",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feartheoldblood/Proyecto_StartUp2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feartheoldblood/Proyecto_StartUp2/issues"
+  },
+  "homepage": "https://github.com/feartheoldblood/Proyecto_StartUp2#readme"
+}
